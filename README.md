@@ -12,7 +12,8 @@
 
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 
-[![Hugging Face Space](https://img.shields.io/badge/🤗%20Launch%20Career%20Conversation%20AI-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/vishalvarkhede/career_conversation](https://huggingface.co/spaces/vishalvarkhede/career_conversation))
+[![Hugging Face Space](https://img.shields.io/badge/🤗%20Launch%20Career%20Conversation%20AI-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)]([https://huggingface.co/spaces/vishalvarkhede/career_conversation](https://huggingface.co/spaces/vishalvarkhede/career_conversation))
+
 
 ⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️
 
