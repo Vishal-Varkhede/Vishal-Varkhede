@@ -16,7 +16,7 @@
 
 ⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️
 
-💡 *Built using AI, NLP, and Conversational Intelligence*
+💡 *Built using AI - Conversational Intelligence*
 
 </div>
 
