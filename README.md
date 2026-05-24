@@ -1,11 +1,24 @@
 # 🚀 Featured Projects
 
-## 🎯 Career Conversation AI  
-Interactive AI-powered career guidance and conversation assistant.
+<div align="center">
 
-➡️➡️ **Click the badge below to launch the project** ⬅️⬅️
+## 🎯 Career Conversation AI
 
-[![Hugging Face Space](https://img.shields.io/badge/🤗%20Launch%20Project-yellow?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/vishalvarkhede/career_conversation)
+✨ Interactive AI-powered career guidance and conversation assistant ✨
+
+<br>
+
+🚀 **Explore the Live AI Project Here** 🚀
+
+⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+
+[![Hugging Face Space](https://img.shields.io/badge/🤗%20Launch%20Career%20Conversation%20AI-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/vishalvarkhede/career_conversation)
+
+⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️
+
+💡 *Built using AI, NLP, and Conversational Intelligence*
+
+</div>
 
 ---
 
