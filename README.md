@@ -1,8 +1,7 @@
 # 🚀 Featured Projects
 
-<div align="center">
-
 ## 🚀 Project 1 — 🎯 Career Conversation AI
+<div align="center">
 
 ✨ Interactive AI-powered career guidance and conversation assistant ✨
 
