@@ -36,7 +36,7 @@
 ### 🏗️ Project Architecture
 
 <p align="center">
-  <img src="Project Architecture.png" alt="Project Architecture" width="900"/>
+  <img src="[Project Architecture.png](https://github.com/Vishal-Varkhede/databricks-genai-data-analyst-copilot/blob/f28899cb6f7e80b36de7c49db60532ff25209346/Project%20Architecture.png)" alt="Project Architecture" width="900"/>
 </p>
 
 #### 💻 Tech Stack
