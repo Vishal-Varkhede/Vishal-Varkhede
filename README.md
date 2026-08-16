@@ -30,8 +30,9 @@
 
 💡 *Short description of your project.*
 
-🔗 **Explore the Project**
-[![GitHub](...)](...)
+🚀 **Explore the Project Here** 🚀
+
+[![💻 View Databricks GenAI Data Analyst Copilot](https://img.shields.io/badge/💻%20View%20Databricks%20GenAI%20Data%20Analyst%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishal-Varkhede/databricks-genai-data-analyst-copilot)
 
 ### 🏗️ Project Architecture
 
