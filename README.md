@@ -41,6 +41,14 @@
        width="900"/>
 </p>
 
+### 🔄 GenAI Pipeline
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vishal-Varkhede/databricks-genai-data-analyst-copilot/main/GenAI_Pipeline.png"
+       alt="GenAI Pipeline"
+       width="900"/>
+</p>
+
 #### 💻 Tech Stack
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
