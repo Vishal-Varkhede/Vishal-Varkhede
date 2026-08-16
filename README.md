@@ -24,7 +24,6 @@
 
 ## 📊 Data Analytics & AI Engineering Projects
 
-## 📊 Data Analytics & AI Engineering Projects
 
 ### 🚀 Project 2 — Your Project Name
 
