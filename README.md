@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## 🎯 Career Conversation AI
+## 🚀 Project 1 — 🎯 Career Conversation AI
 
 ✨ Interactive AI-powered career guidance and conversation assistant ✨
 
