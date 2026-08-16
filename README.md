@@ -36,7 +36,7 @@
 ### 🏗️ Project Architecture
 
 <p align="center">
-  <img src="./assets/project-architecture.png" alt="Project Architecture" width="900"/>
+  <img src="Project Architecture.png" alt="Project Architecture" width="900"/>
 </p>
 
 #### 💻 Tech Stack
