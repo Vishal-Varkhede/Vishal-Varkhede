@@ -24,9 +24,20 @@
 
 ## 📊 Data Analytics & AI Engineering Projects
 
-### 🚀 Project 2 — Data Analytics & AI Portfolio
+## 📊 Data Analytics & AI Engineering Projects
 
-💡 *A collection of projects showcasing data engineering, analytics, machine learning, AI, and cloud technologies.*
+### 🚀 Project 2 — Your Project Name
+
+💡 *Short description of your project.*
+
+🔗 **Explore the Project**
+[![GitHub](...)](...)
+
+### 🏗️ Project Architecture
+
+<p align="center">
+  <img src="./assets/project-architecture.png" alt="Project Architecture" width="900"/>
+</p>
 
 #### 💻 Tech Stack
 
